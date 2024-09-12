@@ -1,0 +1,9 @@
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl\bin\Debug\WDRGBLightControl.exe.config
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl\bin\Debug\WDRGBLightControl.exe
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl\bin\Debug\WDRGBLightControl.pdb
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl\bin\Debug\WDRGBLightControl.xml
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl\obj\Debug\WDRGBLightControl.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl\obj\Debug\WDRGBLightControl.exe
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl\obj\Debug\WDRGBLightControl.xml
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl\obj\Debug\WDRGBLightControl.pdb

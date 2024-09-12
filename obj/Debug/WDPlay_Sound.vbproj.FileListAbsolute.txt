@@ -1,0 +1,19 @@
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\bin\Debug\WDPlay_Sound.exe
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\bin\Debug\WDPlay_Sound.pdb
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\bin\Debug\WDPlay_Sound.xml
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Debug\WDPlay_Sound.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Debug\WDPlay_Sound.exe
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Debug\WDPlay_Sound.xml
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Debug\WDPlay_Sound.pdb
+C:\SourceCode\WDPlay_Sound\bin\Debug\WDPlay_Sound.exe.config
+C:\SourceCode\WDPlay_Sound\bin\Debug\WDPlay_Sound.exe
+C:\SourceCode\WDPlay_Sound\bin\Debug\WDPlay_Sound.pdb
+C:\SourceCode\WDPlay_Sound\bin\Debug\WDPlay_Sound.xml
+C:\SourceCode\WDPlay_Sound\obj\Debug\ResolveAssemblyReference.cache
+C:\SourceCode\WDPlay_Sound\obj\Debug\ConsoleApplication1.Resources.resources
+C:\SourceCode\WDPlay_Sound\obj\Debug\WDPlay_Sound.vbproj.GenerateResource.Cache
+C:\SourceCode\WDPlay_Sound\obj\Debug\WDPlay_Sound.exe
+C:\SourceCode\WDPlay_Sound\obj\Debug\WDPlay_Sound.xml
+C:\SourceCode\WDPlay_Sound\obj\Debug\WDPlay_Sound.pdb

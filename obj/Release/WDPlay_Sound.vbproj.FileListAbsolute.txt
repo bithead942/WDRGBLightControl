@@ -1,0 +1,36 @@
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\ConsoleApplication1.Resources.resources
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\WDPlay_Sound.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\bin\Release\WDPlay_Sound.exe
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\bin\Release\WDPlay_Sound.pdb
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\bin\Release\WDPlay_Sound.xml
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\WDPlay_Sound.exe
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\WDPlay_Sound.xml
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\WDPlay_Sound.pdb
+C:\SourceCode\WDPlay_Sound\obj\Release\WDPlay_Sound.exe
+C:\SourceCode\WDPlay_Sound\obj\Release\WDPlay_Sound.xml
+C:\SourceCode\WDPlay_Sound\obj\Release\WDPlay_Sound.pdb
+C:\SourceCode\WDPlay_Sound\bin\Release\WDPlay_Sound.exe
+C:\SourceCode\WDPlay_Sound\bin\Release\WDPlay_Sound.pdb
+C:\SourceCode\WDPlay_Sound\bin\Release\WDPlay_Sound.xml
+C:\SourceCode\WDPlay_Sound\obj\Release\ResolveAssemblyReference.cache
+C:\SourceCode\WDPlay_Sound\obj\Release\ConsoleApplication1.Resources.resources
+C:\SourceCode\WDPlay_Sound\obj\Release\WDPlay_Sound.vbproj.GenerateResource.Cache
+C:\SourceCode\WDPlay_Sound\bin\Release\WDPlay_Sound.exe.config
+C:\Users\Greg\Documents\WDPlay_Sound2\bin\Release\WDPlay_Sound.exe.config
+C:\Users\Greg\Documents\WDPlay_Sound2\obj\Release\WDPlay_Sound.exe
+C:\Users\Greg\Documents\WDPlay_Sound2\obj\Release\WDPlay_Sound.xml
+C:\Users\Greg\Documents\WDPlay_Sound2\obj\Release\WDPlay_Sound.pdb
+C:\Users\Greg\Documents\WDPlay_Sound2\bin\Release\WDPlay_Sound.exe
+C:\Users\Greg\Documents\WDPlay_Sound2\bin\Release\WDPlay_Sound.pdb
+C:\Users\Greg\Documents\WDPlay_Sound2\bin\Release\WDPlay_Sound.xml
+C:\Users\Greg\Documents\WDPlay_Sound2\obj\Release\ConsoleApplication1.Resources.resources
+C:\Users\Greg\Documents\WDPlay_Sound2\obj\Release\WDPlay_Sound.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Watchdog\WDPlay_Sound2\bin\Release\WDPlay_Sound.exe.config
+C:\Users\Greg\Documents\Watchdog\WDPlay_Sound2\obj\Release\WDPlay_Sound.exe
+C:\Users\Greg\Documents\Watchdog\WDPlay_Sound2\obj\Release\WDPlay_Sound.xml
+C:\Users\Greg\Documents\Watchdog\WDPlay_Sound2\obj\Release\WDPlay_Sound.pdb
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl2\bin\Release\WDPlay_Sound.exe.config
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl2\obj\Release\WDPlay_Sound.exe
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl2\obj\Release\WDPlay_Sound.xml
+C:\Users\Greg\Documents\Watchdog\WDRGBLightControl2\obj\Release\WDPlay_Sound.pdb
